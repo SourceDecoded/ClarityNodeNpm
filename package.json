@@ -1,0 +1,9 @@
+{
+  "name": "clarity-node-npm",
+  "version": "0.0.0",
+  "description": "ClarityNodeNpm",
+  "main": "app.js",
+  "author": {
+    "name": "Jared"
+  }
+}
